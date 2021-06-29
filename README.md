@@ -10,17 +10,17 @@
 _**Following are the names of the various model files used:**_
 <br>
 <br>
--📕<b>Diabetes model =</b>  [model](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model.py) 
+-📕<b>Diabetes model =</b>  [model](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/model.py) 
 <br>
--📕<b>Cancer model = </b>  [model1](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model1.py)
+-📕<b>Cancer model = </b>  [model1](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/model1.py)
 <br>
--📕<b>Heart model = </b>  [model2](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model2.py)
+-📕<b>Heart model = </b>  [model2](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/model2.py)
 <br>
--📕<b>Iris model =</b> [model3](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model3.py) 
+-📕<b>Iris model =</b> [model3](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/model3.py) 
 <br>
 -📕<b>Forest fire model =</b> [model4](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model4.py)
 <br>
--📕<b>Glass model =</b> [model5](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model5.py)
+-📕<b>Glass model =</b> [model5](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/model5.py)
 
 <hr>
 
