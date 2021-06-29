@@ -27,17 +27,17 @@ _**Following are the names of the various model files used:**_
 _**Details of various datasets used for model development[In the repository]:**_
 <br>
 <br>
--📚<b>Diabetes model :</b>  [diabetes.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/diabetes.csv) 
+-📚<b>Diabetes model :</b>  [diabetes.csv](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/diabetes.csv) 
 <br>
--📚<b>Cancer model : </b>  [cancer.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/cancer.csv)
+-📚<b>Cancer model : </b>  [cancer.csv](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/cancer.csv)
 <br>
--📚<b>Heart model : </b>  [heart.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/heart.csv)
+-📚<b>Heart model : </b>  [heart.csv](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/heart.csv)
 <br>
--📚<b>Iris model :</b> [iris.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/iris.csv) 
+-📚<b>Iris model :</b> [iris.csv](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/iris.csv) 
 <br>
--📚<b>Forest fire model :</b> [Forest_fire.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/Forest_fire.csv)
+-📚<b>Forest fire model :</b> [Forest_fire.csv](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/Forest_fire.csv)
 <br>
--📚<b>Glass model :</b> [glass.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/glass.csv)
+-📚<b>Glass model :</b> [glass.csv](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/glass.csv)
 
 <hr>
 
@@ -45,7 +45,6 @@ _**Details of various datasets used for model development[In the repository]:**_
 <ul>
 <li><p><b>Python ( 3.7 version)</b></p></li>
 <li><p><b>Flask</b></p></li>
-<li><p><b>Bootstrap4</b></p></li>
 </ul>
 
 ## Usage:
@@ -60,8 +59,6 @@ _**Details of various datasets used for model development[In the repository]:**_
   
   <p> The whole project is deployed on Heroku Cloud.
   
- <p> Link to access the project live is : https://predictsomethingwebapp.herokuapp.com// </p>
- <p> Or you can go through launchpad github page : https://philsaurabh.github.io/Predict-Something-ML-Prediction-App/</p>
   <p> Thank you!</p><br/>
  •  And if you found it helpful, please do ⭐ the repository.
  
