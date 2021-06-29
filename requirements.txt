@@ -4,12 +4,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.13.0
 MarkupSafe==1.1.1
-numpy==1.19.1
 packaging==20.4
-pandas==0.25.1
 requests==2.20.0
-scikit-learn==0.23.1
-scipy==1.1.0
-sklearn==0.0
 Werkzeug==0.15.4
-wikipedia==1.4.0
