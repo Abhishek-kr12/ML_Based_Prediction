@@ -1,17 +1,10 @@
 Flask==1.1.2
 gunicorn==19.9.0
-imbalanced-learn==0.7.0
-itsdangerous==1.1.0
-Jinja2==2.11.2
 joblib==0.13.0
-MarkupSafe==1.1.1
 numpy==1.19.1
-packaging==20.4
-pandas==0.25.1
 requests==2.20.0
 scikit-learn==0.23.1
 scipy==1.1.0
-six==1.15.0
 sklearn==0.0
 tensorflow==2.5.0
 threadpoolctl==2.1.0
