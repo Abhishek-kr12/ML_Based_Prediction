@@ -18,7 +18,7 @@ _**Following are the names of the various model files used:**_
 <br>
 -📕<b>Iris model =</b> [model3](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/model3.py) 
 <br>
--📕<b>Forest fire model =</b> [model4](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model4.py)
+-📕<b>Forest fire model =</b> [model4](https://github.com/https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/forest_fire.py)
 <br>
 -📕<b>Glass model =</b> [model5](https://github.com/Abhishek-kr12/ML_Based_Prediction/blob/master/model5.py)
 
