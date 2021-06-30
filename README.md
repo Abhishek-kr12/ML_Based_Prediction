@@ -1,4 +1,4 @@
-# Predict Something Web Application
+# Machine Learning Based Prediction Web Application
 
 - 👯 My gratitude to [Krish Sir](https://github.com/krishnaik06) for his guidance through his youtube channel!
 - 👯 My gratitude to [Anuj](https://github.com/anujvyas?tab=repositories), Nachiketa Hebbar and [Shobhit](https://github.com/shobhitsrivastava-ds) for their open source contribution which provided me basic guidance and inspiration for this project.
@@ -62,8 +62,6 @@ _**Details of various datasets used for model development[In the repository]:**_
   <p> Thank you!</p><br/>
  •  And if you found it helpful, please do ⭐ the repository.
  
- •  Here is the demo of the app:
   
-  ![Demo GIF](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/templates/static/img/demonstration.gif)
   
   
