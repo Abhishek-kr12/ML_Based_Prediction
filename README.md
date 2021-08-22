@@ -43,8 +43,9 @@ _**Details of various datasets used for model development[In the repository]:**_
 
 ## Tools used for project development: 
 <ul>
-<li><p><b>Python ( 3.7 version)</b></p></li>
+<li><p><b>Python ( 3.9 version)</b></p></li>
 <li><p><b>Flask</b></p></li>
+ <li><p><b>Bootstrap4</b></p></li>
 </ul>
 
 ## Usage:
@@ -58,7 +59,7 @@ _**Details of various datasets used for model development[In the repository]:**_
   <hr>
   
   <p> The whole project is deployed on Heroku Cloud.
-  
+  <b>Link to access the web app :</b>(https://ml-based-prediction.herokuapp.com/)
   <p> Thank you!</p><br/>
  •  And if you found it helpful, please do ⭐ the repository.
  
