@@ -59,7 +59,7 @@ _**Details of various datasets used for model development[In the repository]:**_
   <hr>
   
   <p> The whole project is deployed on Heroku Cloud.
-  <b>Link to access the web app :</b>(https://ml-based-prediction.herokuapp.com/)
+  <b>Link to access the web app :</b> https://ml-based-prediction.herokuapp.com/
   <p> Thank you!</p><br/>
  •  And if you found it helpful, please do ⭐ the repository.
  
